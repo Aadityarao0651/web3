@@ -1,6 +1,6 @@
 # 🎨 NFT Marketplace Project
 
-Hi! 👋 I’m Abhay, and this is my **NFT Marketplace** project.  
+Hi! 👋 I’m Aaditya rao, and this is my **NFT Marketplace** project.  
 I built it as a way to explore **Web3 development** and learn how NFTs work in real life.  
 
 ## 📌 What it Does
